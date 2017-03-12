@@ -1,0 +1,3 @@
+Le projet a comme objectif la conception et le développement d'un référentiel produit pour centraliser les données de l'entreprise – c'est à dire leurs produits ainsi que leurs accords commerciaux avec leurs fournisseurs – enfin d'avoir un point unique de référence pour les systèmes logistiques et magasins de l'entreprise. 
+
+L'origine du besoin de l'entreprise provient de la fusion qu'a eu lieu avec le groupe SOCDIS. En effet, la difficulté à unifier les méthodes de travail de personnes et de cultures d'entreprise différents a donné lieu à une hétérogénéité de systèmes au niveau informatique. En conséquence, il existe actuellement un réseau où les mêmes informations peuvent être saisies plusieurs fois, ce qui engendre un risque d'avoir d'incohérences.
