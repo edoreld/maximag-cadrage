@@ -1,6 +1,11 @@
-Yves Remord, Directeur MOA projet RCS
-Ondine Houcessoir, chef de projet MOA projet RCS 
-Elie Coptere, Responsable Achat
-Gérard Menvussa, Responsable équipe référentiel
-Cécile Lourkessa, Responsable Marketing
-Geoffroy Danledault, Responsable exploitation SI Siège
+•	Yves Remord, Directeur MOA du projet RCS.
+
+•	Ondine Houcessoir, chef de projet MOA du projet RCS.
+
+•	Elie Coptere, Responsable Achat. Son équipe a besoin du système RCS pour gérer et fiabiliser les informations financières - les remises et ristournes et prix d'achat des produits. Ils vont utiliser le RCS pour créer les accords commerciaux.
+
+•	Gérard Menvussa, Responsable équipe référentiel. Son équipe va saisir les fiches de produits dans le RCS ainsi que modifier les fiches de produits dans le cas où il n'y a pas besoin de modifier le prix de vente.
+
+•	Cécile Lourkessa, Responsable Marketing, 
+
+•	Geoffroy Danledault, Responsable exploitation SI Siège.

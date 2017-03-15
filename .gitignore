@@ -1,2 +1,4 @@
 projet.doc
 ~$projet.doc
+reference/*
+*.swp
