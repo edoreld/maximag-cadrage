@@ -4,8 +4,8 @@
 
 •	Elie Coptere, Responsable Achat. Son équipe a besoin du système RCS pour gérer et fiabiliser les informations financières - les remises et ristournes et prix d'achat des produits. Ils vont utiliser le RCS pour créer les accords commerciaux.
 
-•	Gérard Menvussa, Responsable équipe référentiel. Son équipe va saisir les fiches de produits dans le RCS ainsi que modifier les fiches de produits dans le cas où il n'y a pas besoin de modifier le prix de vente.
+•	Gérard Menvussa, Responsable équipe référentiel. Son équipe va saisir et modifier les fiches de produits dans le RCS.
 
-•	Cécile Lourkessa, Responsable Marketing, 
+•	Cécile Lourkessa, Responsable Marketing. Son équipe va avoir besoin du système pour saisir ou modifier les prix de vente des produits en cas de changement de prix d'achat ou de relevés de concurrence.
 
 •	Geoffroy Danledault, Responsable exploitation SI Siège.

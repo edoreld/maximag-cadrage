@@ -2,3 +2,4 @@ projet.doc
 ~$projet.doc
 reference/*
 *.swp
+.DS_Store
