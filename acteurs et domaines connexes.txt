@@ -1,0 +1,18 @@
+Acteur Externe 
+ - Un acteur externe est un élément émetteur ou récepteur de données, situé hors du système d'information étudié.
+
+#####
+
+Domaine Connexe
+ - Un domaine connexe est un composant du système d’information interagissant avec le domaine d’étude . C’est un acteur interne à l’entreprise, mais externe au domaine d’étude
+
+----------
+
+Nous avon un acteur externe qui réprésente les fournisseurs. Ce sont les personnes en contact avec les departement Achats et avec qui le departement établi les accords commerciaux pour des nouveaux produits. Ces accords commerciaux vont contenir des informations comme le prix d'achat, les ristournes et les remises qui seront vérifies par le departement achat dans le RCS.
+
+En suite, on a identifié deux domaines connexes : la logistique et le magasin. 
+
+La logistique gère les approvisionnements des entrepôts ainsi que les BOM (Back Office Magasin) à fin d'avoir des informations cohérentes. 
+
+Les magasins servent des lieux de vente des produits. Ils font des commandes auprès de la logistique et ils sont achéminés de l'entrepôt jusqu’aux boutiques pour ainsi permettre aux produits d’être exposés dans les rayons et ainsi d’être vendus.
+
